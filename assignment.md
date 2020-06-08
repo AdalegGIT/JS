@@ -1,4 +1,4 @@
-It's important that you go through this material before our first JavaScript lesson!
+
 
 ## JavaScript Fundamentals: From Ruby to JavaScript
 
